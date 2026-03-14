@@ -1,5 +1,7 @@
 # 🏥 Hospital Management System
 
+## 📌 Overview
+
 A Hospital Management System (HMS) built using **Java, JDBC, and MySQL** to manage hospital operations such as patient records, appointment scheduling, and doctor management with efficient database integration.
 
 ## 🚀 Features
