@@ -1,2 +1,15 @@
-# Hospital-Management-System
-A Java-based Hospital Management System designed to manage patient records, appointments, and doctor scheduling. The application uses JDBC to connect Java with MySQL, enabling efficient database operations and reliable backend functionality.
+# 🏥 Hospital Management System
+
+A Hospital Management System (HMS) built using **Java, JDBC, and MySQL** to manage hospital operations such as patient records, appointment scheduling, and doctor management with efficient database integration.
+
+## 🚀 Features
+- Manage patient records
+- Schedule and manage appointments
+- Store and retrieve hospital data using MySQL
+- Efficient database connectivity using JDBC
+- Backend logic implemented using Java
+
+## 🛠️ Tech Stack
+- **Language:** Java
+- **Database:** MySQL
+- **Connectivity:** JDBC
